@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Crypt-RIPEMD160
-version:            0.04_01
+version:            0.05
 abstract:           Perl extension for the RIPEMD-160 Hash function
 author:
     - Christian H. Geuer-Pollmann
